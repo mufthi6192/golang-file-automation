@@ -113,6 +113,6 @@ func IterateFile() {
 		}
 	}
 
-	fmt.Println("OK")
+	fmt.Println("Successfully export image to " + `"` + destinationPath + `"`)
 
 }
