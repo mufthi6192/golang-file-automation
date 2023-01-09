@@ -1,0 +1,10 @@
+#Configuration For Database
+db_host : "localhost"
+db_port : 3306
+db_name : "golang_testing"
+db_username : "testing"
+db_password : "testing"
+
+#Configuration for assets
+current_path : "/public/assets/images"
+destination_path : "/Applications/XAMPP/xamppfiles/htdocs/olshop-laravel/public/assets/images/"
